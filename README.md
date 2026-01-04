@@ -14,7 +14,7 @@ I work across frontend and backend layers, and I’m particularly interested in 
 
 ---
 
-### Selected Projects
+### Some Projects
 
 **SpotGhost**  
 Job posting analysis tool that surfaces incomplete or suspicious patterns using structured input handling and clear result presentation.  
@@ -37,7 +37,7 @@ Digital emergency card system designed around secure access, fast information re
 
 ---
 
-### Tech I Use (In Practice)
+### Tech I Use
 JavaScript · C++ · Python  
 React · Next.js · Node.js  
 MongoDB · REST APIs  
