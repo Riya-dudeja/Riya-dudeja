@@ -1,6 +1,6 @@
 ## Riya Dudeja
 
-Software Engineer focused on building clear, maintainable web systems, with attention to both user experience and backend correctness.
+Aspiring Software Engineer focused on building clear, maintainable web systems, with attention to both user experience and backend correctness.
 
 I work across frontend and backend layers, and I’m particularly interested in how small engineering decisions shape usability, performance, and system reliability.
 
