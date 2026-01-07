@@ -32,7 +32,7 @@ Real-time exercise feedback system using webcam-based pose tracking, focused on 
 
 **MediQR**  
 Digital emergency card system designed around secure access, fast information retrieval, and clear authorization boundaries.  
-🔗 Live Demo: (add link)  
+🔗 Live Demo: https://medical-qr-app.vercel.app/  
 📂 Repository: https://github.com/Riya-dudeja/medical-qr-app
 
 ---
