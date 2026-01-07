@@ -38,8 +38,8 @@ Digital emergency card system designed around secure access, fast information re
 ---
 
 ### Tech I Use
-JavaScript · C++ · Python  
-React · Next.js · Node.js  
+C++ · Python · Javascript
+React.js · Next.js · Node.js · Express.js 
 MongoDB · REST APIs  
 Git · GitHub
 
